@@ -36,6 +36,9 @@ Este projeto visa demonstrar como integrar e utilizar um display LCD 20x4 com o 
    - Conecte o terminal central do potenciômetro ao V0 do LCD.
    - Conecte um dos terminais do potenciômetro ao GND e o outro ao VCC (5V).
 
+4. **Bibliotéca:**   
+   - Adicionar biblioteca do LCD (está disponibilizado)
+     
 3. **Código na IDE:**
    - Implemente o código C para inicializar o LCD, enviar dados e comandos conforme necessário para exibir informações.
 
