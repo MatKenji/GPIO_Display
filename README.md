@@ -58,3 +58,5 @@ O display LCD 20x4 configurado corretamente com o STM32F411 exibirá informaçõ
   - Após a implementação do código, teste o funcionamento do display LCD para verificar se as informações são exibidas corretamente e se o ajuste de contraste está adequado.
 
 Este projeto proporcionará uma introdução prática ao uso de displays LCD com microcontroladores STM32F411, expandindo suas habilidades em desenvolvimento de sistemas embarcados e interfaces de usuário.
+
+- **Nota:** Os arquivos de código fornecidos neste repositório foram desenvolvidos usando STM32CubeIDE. Devido a limitações de minha experiência com o STM32CubeIDE, a importação direta do projeto para o Git pode não ter sido feita da maneira mais eficiente ou padronizada. 
