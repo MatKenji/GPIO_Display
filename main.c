@@ -109,7 +109,7 @@ int main(void)
   lcd_init(&Lcd);
 
   lcd_put_cur(&Lcd, 0, 0);
-  lcd_send_string(&Lcd, "Ola mundo Kenjizera aqui");
+  lcd_send_string(&Lcd, "Ola mundo Kenjizera");
   /* USER CODE END 2 */
 
   /* Infinite loop */
